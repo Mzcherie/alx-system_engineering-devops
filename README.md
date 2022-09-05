@@ -1,1 +1,1 @@
-Task 0.Where am I?
+echo 'Hello, World' - writes "Hello, World" into a file.
